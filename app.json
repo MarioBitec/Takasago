@@ -1,0 +1,30 @@
+{
+  "id": "9ee17fd1-afbd-4629-850e-5bbcf5bf63fe",
+  "name": "IntegrationDynamics365Sales",
+  "publisher": "BITEC",
+  "version": "22.3.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{ "id": "a894100d-4fc5-494f-8df7-9123de743803", "name": "Ticsa", "publisher": "Ticsa", "version": "22.0.0.0" }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50900,
+      "to": 50949
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.1",
+  "features": ["TranslationFile"]
+}

@@ -1,0 +1,17 @@
+#ignoramos launch.json
+
+.vscode\launch.json
+
+#ignoramos todos los compilados y simbolos
+*.app
+
+*/.alpackages/*.app
+*/.vscode/launch.json
+Translations/*.g.xlf
+*/.vscode/rad.json
+*/.alcache/*
+*/.altemplates/*
+*/.vscode/.altemplates/*
+*/.vscode/.alcache/*
+
+.vscode/rad.json

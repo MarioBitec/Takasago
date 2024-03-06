@@ -1,0 +1,26 @@
+{
+    "name": "Excepciones",
+    "description": "Excepciones temporales a restricciones estandar",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "None",
+            "justification": "Variables que deben ser modificadas - Implementación incorrecta en estándar"
+        },
+        {
+            "id": "AA0215",
+            "action": "None",
+            "justification": "Nueva nomenclatura de ficheros - deshabilitado temporalmente"
+        },
+        {
+            "id": "DOC0101",
+            "action": "None",
+            "justification": "N/A documentación de los procedimientos y objetos"
+        },     
+        {
+            "id": "PTE0005",
+            "action": "None",
+            "justification": "Para permitir target = OnPrem en app.json"
+        } 
+    ]
+}
